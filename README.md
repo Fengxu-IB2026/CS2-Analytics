@@ -105,6 +105,7 @@ This approach supports traceability and provides a record of how the project has
 ## Limitations
 
 - The dataset currently focuses on a limited selection of professional teams.
+- The dataset reflects HLTV statistics collected before a subsequent rating methodology update. Rating values may differ from those currently displayed on HLTV. Cross-version comparisons require additional validation.
 - Historical player statistics may be affected by changes in source definitions or rating methodologies.
 - Observed statistical relationships should not be interpreted as causal without further investigation.
 - Additional validation is required before drawing broader conclusions.
